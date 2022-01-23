@@ -27,6 +27,7 @@ function App() {
           placeholder='Enter Location'
           type="text" />
       </div>
+
       <div className="container">
         <div className="top">
           <div className="location">
@@ -56,9 +57,6 @@ function App() {
             </div>
           </div>
         }
-
-
-
       </div>
     </div>
   );

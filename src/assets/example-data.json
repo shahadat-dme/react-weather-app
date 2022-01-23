@@ -1,0 +1,8 @@
+{"coord":
+    {"lon":90.4074,"lat":23.7104},
+    "weather":[{"id":301,
+        "main":"Drizzle",
+        "description":"drizzle",
+        "icon":"09n"}],
+        "base":"stations",
+        "main":{"temp":69.78,"feels_like":69.89,"temp_min":69.78,"temp_max":69.78,"pressure":1013,"humidity":73},"visibility":2500,"wind":{"speed":0,"deg":0},"clouds":{"all":75},"dt":1642956072,"sys":{"type":1,"id":9145,"country":"BD","sunrise":1642898512,"sunset":1642937881},"timezone":21600,"id":1185241,"name":"Dhaka","cod":200}
