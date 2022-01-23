@@ -56,12 +56,12 @@ h1 {
 }
 
 ::placeholder {
-  color: #f8f8f8;
+  color: #f5e5e5;
 }
 
 .container {
   max-width: 700px;
-  height: 700px;
+  height: 500px;
   margin: auto;
   padding: 0 1rem;
   position: relative;
